@@ -1,0 +1,16 @@
+D:\.Net\Exercise\Exam_1\Revers_Number\bin\Debug\net5.0\Revers_Number.exe
+D:\.Net\Exercise\Exam_1\Revers_Number\bin\Debug\net5.0\Revers_Number.deps.json
+D:\.Net\Exercise\Exam_1\Revers_Number\bin\Debug\net5.0\Revers_Number.runtimeconfig.json
+D:\.Net\Exercise\Exam_1\Revers_Number\bin\Debug\net5.0\Revers_Number.runtimeconfig.dev.json
+D:\.Net\Exercise\Exam_1\Revers_Number\bin\Debug\net5.0\Revers_Number.dll
+D:\.Net\Exercise\Exam_1\Revers_Number\bin\Debug\net5.0\ref\Revers_Number.dll
+D:\.Net\Exercise\Exam_1\Revers_Number\bin\Debug\net5.0\Revers_Number.pdb
+D:\.Net\Exercise\Exam_1\Revers_Number\obj\Debug\net5.0\Revers_Number.csproj.AssemblyReference.cache
+D:\.Net\Exercise\Exam_1\Revers_Number\obj\Debug\net5.0\Revers_Number.GeneratedMSBuildEditorConfig.editorconfig
+D:\.Net\Exercise\Exam_1\Revers_Number\obj\Debug\net5.0\Revers_Number.AssemblyInfoInputs.cache
+D:\.Net\Exercise\Exam_1\Revers_Number\obj\Debug\net5.0\Revers_Number.AssemblyInfo.cs
+D:\.Net\Exercise\Exam_1\Revers_Number\obj\Debug\net5.0\Revers_Number.csproj.CoreCompileInputs.cache
+D:\.Net\Exercise\Exam_1\Revers_Number\obj\Debug\net5.0\Revers_Number.dll
+D:\.Net\Exercise\Exam_1\Revers_Number\obj\Debug\net5.0\ref\Revers_Number.dll
+D:\.Net\Exercise\Exam_1\Revers_Number\obj\Debug\net5.0\Revers_Number.pdb
+D:\.Net\Exercise\Exam_1\Revers_Number\obj\Debug\net5.0\Revers_Number.genruntimeconfig.cache
